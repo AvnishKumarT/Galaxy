@@ -15,14 +15,14 @@ With its responsive design, Galaxy ensures a seamless experience across devices,
 
 ## ⚓ Lighthouse Score
 <p align="center">
-  <img width="600" alt="Lighthouse Score" src="https://raw.githubusercontent.com/ttomczak3/Galaxy/6e386e2f920c993c33d348a9c1271a1cec6c6d2b/milkyway-lighthouse-score.svg"/>
+  <img width="600" alt="Lighthouse Score" src="https://raw.githubusercontent.com/ttomczak3/Milky-Way/6e386e2f920c993c33d348a9c1271a1cec6c6d2b/milkyway-lighthouse-score.svg"/>
 </p>
 
 ## 🚀 Getting Started
 Clone this repository to your local machine using Git.
 
 ```scheme
-git clone https://github.com/ttomczak3/Galaxy.git
+git clone https://github.com/AvnishKumarT/Galaxy.git
 cd Galaxy
 ```
 
